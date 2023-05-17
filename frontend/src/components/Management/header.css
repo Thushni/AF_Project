@@ -1,0 +1,31 @@
+.fa{
+    color: #d0cacacc;
+}
+nav {
+  background-color:hsla(258, 91%, 35%, 0.752);
+  height: 100px;
+  width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+}
+
+nav ul li {
+  height: 100%;
+}
+
+nav ul li a {
+  display: block;
+  color: rgb(242, 232, 226);
+  text-decoration: bold;
+  height: 100%;
+  padding: 0 20px;
+  line-height: 50px;
+}

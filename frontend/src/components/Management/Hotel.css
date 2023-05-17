@@ -1,0 +1,242 @@
+
+.searchbar {
+  position: relative;
+  display: inline-block;
+  padding: 20px;
+  width: 400px;
+}
+
+.search_input {
+  font-size: 15px;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 25px;
+  background-color: #eae320;
+  width: 250px;
+  outline: none;
+}
+
+.search_icon {
+ 
+  top: 50%;
+  right: 22px;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: #e51313;
+}
+
+.fa-search {
+  color: #d11111;
+}
+
+    .back{
+        background-color: #c4ffda;
+    }
+    .container1{
+      
+      margin-bottom: 20px;
+  }
+    .container2{
+        background: url(https://wallpapercave.com/wp/wp7488228.jpg);
+        width: 1600px;
+        height: 200px;
+        margin-bottom: 10px;
+    }
+    .container3{
+        background: url(https://wallpapercave.com/wp/wp7488228.jpg);
+        width: 1500px;
+        height: 600px;
+        margin-bottom: 10px;
+    }
+    .test{
+        border: #0c0403;
+        width: 1250px;
+        margin-left: 50px;
+        margin-bottom: 100px;
+        
+    }
+    
+     
+      
+    .photo{
+        width: 300px;
+        height: 200px;
+    }
+
+    .fa{
+        color: #f0e7e6;
+    }
+    
+    
+    .abc {
+      background-color: rgb(8, 8, 131);
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 10px;
+      cursor: pointer;
+    }
+    
+    .a {
+      background-color: rgb(221, 13, 34);
+      color: white;
+      padding: 10px 115px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 55px 350px;
+      cursor: pointer;
+    }
+     
+    .b {
+      background-color: rgb(8, 8, 131);
+      color: white;
+      padding: 10px 50px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 30px 1200px;
+      cursor: pointer;
+    }
+    
+    .gen_btn {
+        background-color: #4CAF50;
+     }
+    
+    
+     .table {
+     
+      border-collapse: collapse;
+      width: 100%;
+      cursor: default;
+    }
+    
+    .table th {
+      border: 15x solid #242626;
+      padding: 6px 4px;
+      font-size: 14px;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #045F5F;
+      color: rgb(255, 255, 255);
+      text-transform: uppercase;
+    }
+    
+    .table td {
+      border: 1px solid lightgrey;
+      padding: 6px 4px;
+      font-size: 14px;
+    }
+    
+    .table tr:nth-child(even){background-color: #f2f2f2;}
+    
+    .table tr:nth-child(odd){background-color: gainsboro;}
+    
+    .card{
+    
+      margin-left: 400px;
+  }
+  
+  .avatar{
+      margin-top: 40px;
+  }
+  
+  .btn1{
+      width: 150px;
+      background-color: rgb(88, 223, 128);
+      font-weight: bold;
+      height: 50px;
+      margin-left: 30px;
+  }
+  
+  .user-name.border {
+      border: 2px solid yellow;
+    }
+    
+  
+/*footer {
+   background-color: #c3dbec;
+  padding: 30px 0;
+  font-size: 14px;
+}
+*/
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.col-md-4 {
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 33.3333333333%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+h3 {
+  font-size: 18px;
+  margin-top: 0;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+ul.social-icons {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+ul.social-icons li {
+  margin-right: 10px;
+}
+ul.social-icons li:last-child {
+  margin-right: 0;
+}
+ul.social-icons li a {
+  display: inline-block;
+  color: #fff;
+  background-color: #333;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 50%;
+}
+.fa {
+  font-size: 20px;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+p.text-center {
+  text-align: center;
+}
+img.location-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+}
+.blue-bold-text {
+  color: blue;
+  font-weight: bold;
+}
